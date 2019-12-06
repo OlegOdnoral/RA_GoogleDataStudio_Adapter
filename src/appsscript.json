@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "libraries": []
+  },
+  "dataStudio": {
+    "name": "RankActive",
+    "logoUrl": "https://app.rankactive.com/assets/pwa-icons/app.rankactive/icon-512x512.png",
+    "company": "RankActive",
+    "companyUrl": "https://rankactive.com",
+    "addonUrl": "addonUrl",
+    "supportUrl": "https://rankactive.com/resources/help-center",
+    "description": "No Description",
+    "sources": [""]
+  }
+}
